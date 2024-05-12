@@ -43,5 +43,26 @@ body {
     0%{background-position:0% 50%}
     50%{background-position:100% 50%}
     100%{background-position:0% 50%}
+}
 
+nav {
+  display: flex;
+  background-color: black;
+  margin:0;
+}
 
+nav a, nav img {
+  margin-right:17%;
+}
+
+nav a {
+  top: 50%;
+  transform: translateY(25%);
+  color: white;
+  text-decoration: none;
+}
+
+html, body {
+  margin:0;
+  padding:0;
+}
