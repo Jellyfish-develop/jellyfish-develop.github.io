@@ -49,8 +49,16 @@ body {
     margin: 0 auto;
 }
 
+
+
 header {
   background: #000000
+}
+
+header::after {
+  content: '';
+  display: table
+  crear: both;
 }
 
 .logo {
