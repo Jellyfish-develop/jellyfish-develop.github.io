@@ -1,7 +1,7 @@
 Jellyfish-develop
 ===
 
- Welcome to Jellyfish Develop, the brainchild of two friends who share a passion for coding and creating. <br>
+ Welcome to Jellyfish Develop, the brainchild of three friends who share a passion for coding and creating. <br>
   Founded on the simple premise of turning our love for technology into something tangible, we embarked on this journey to craft innovative solutions and bring ideas to life. <br>
   With a blend of creativity, curiosity, and a sprinkle of humor, we dive into the depths of development, exploring new frameworks, languages, and concepts with enthusiasm.<br>
  <br>
