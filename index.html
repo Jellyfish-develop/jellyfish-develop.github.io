@@ -13,6 +13,28 @@
       Click on the boxes and circles as quickly as you can. Your reaction time
       will be posted below:
     </p>
+    <button
+      onclick="repeat = false"
+      style="
+        background-color: red;
+        border: 1px solid black;
+        border-radius: 5px;
+        color: white;
+      "
+    >
+      Stop
+    </button>
+    <button
+      onclick="repeat = true; makeBox()"
+      style="
+        background-color: green;
+        border: 1px solid black;
+        border-radius: 5px;
+        color: white;
+      "
+    >
+      Start
+    </button>
 
     <p id="printReactionTime"></p>
 

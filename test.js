@@ -10,6 +10,7 @@ function getRandomColor() {
 var clickedTime;
 var createdTime;
 var reactionTime;
+let repeat = true;
 
 function makeBox() {
   var time = Math.random();
@@ -48,7 +49,9 @@ document.getElementById("box").onclick = function () {
 
   this.style.display = "none";
 
-  makeBox();
+  if (repeat) {
+    makeBox();
+  }
 };
 
 makeBox();
