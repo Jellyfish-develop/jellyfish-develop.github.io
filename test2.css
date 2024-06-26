@@ -73,23 +73,23 @@ body {
 }
 .lefter {
   transform: translateX(-60px) translateZ(-50px) rotateY(-10deg);
-  background-image: url(https://cdn3.iconfinder.com/data/icons/other-icons/48/organization-512.png);
+  background-image: url(https://i.pinimg.com/736x/00/58/fa/0058fa97e83fff8a410cd4fdc80cd3d4.jpg);
 }
 .left {
   transform: translateX(-30px) translateZ(-25px) rotateY(-5deg);
-  background-image: url(https://cdn3.iconfinder.com/data/icons/other-icons/48/creative_draw-512.png);
+  background-image: url(https://symbolikon.com/wp-content/uploads/edd/2024/01/Edward-Low-Jolly-rogers-pirate-flag-.png);
 }
 .center {
   opacity: 1;
-  background-image: url(https://cdn3.iconfinder.com/data/icons/other-icons/48/app_window-512.png);
+  background-image: url(https://pngimg.com/uploads/minecraft/minecraft_PNG60.png);
 }
 .right {
   transform: translateX(30px) translateZ(-25px) rotateY(5deg);
-  background-image: url(https://cdn3.iconfinder.com/data/icons/other-icons/48/cloud_weather-512.png);
+  background-image: url(https://cdn3.iconfinder.com/data/icons/other-icons/48/list-512.png);
 }
 .righter {
   transform: translateX(60px) translateZ(-50px) rotateY(10deg);
-  background-image: url(https://cdn3.iconfinder.com/data/icons/other-icons/48/search-512.png);
+  background-image: url(https://cdn3.iconfinder.com/data/icons/other-icons/48/talk_chat-512.png);
 }
 .explainer {
   font-weight: 300;
