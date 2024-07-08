@@ -1,7 +1,7 @@
 code = document.getElementById("code");
 
 function check() {
-  if (code.value == "bypass") {
+  if (code.value == "i_want_games") {
     window.location.href = "selectmenu.html";
   }
 }
