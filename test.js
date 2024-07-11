@@ -67,6 +67,6 @@ document.addEventListener("keydown", function (e) {
     listOfKeysPressed = [];
   }
   if (listOfKeysPressed.join(",") === ["ctrlL", "ctrlR", "ctrlL"].join(",")) {
-    window.location.href = "home.html";
+    window.location.href = "explore.html";
   }
 });
