@@ -98,7 +98,7 @@ body {
   transition: all .6s ease;
   width: 100%;
   height: 100%;
-  background-color: #303050;
+  background-color: #000000;
   background-image: radial-gradient(circle at center top, #cce, #33a);
   border-radius: 10px;
   text-shadow: 0 0 10px rgba(255, 255, 255, .8);
